@@ -2,7 +2,7 @@
 
 **AudoraLabs** is an independent product studio focused on building and operating reliable software.
 
-We build our own SaaS products and selectively partner with founders on systems that need to work in production — not just demos.
+We build our own SaaS products and selectively partner with founders on systems that need to work in production - not just demos.
 
 ---
 
@@ -44,6 +44,8 @@ AudoraLabs is product-led, engineering-driven, and intentionally small.
 
 - Website: https://audoralabs.com
 - GitHub: https://github.com/audoralabs
+- LinkedIn: https://www.linkedin.com/company/audora-labs
+- X: https://x.com/audoralabs
 
 ---
 
