@@ -14,12 +14,11 @@ Independent product studio. We build software that works in production, not just
 
 ## Products
 
-| Product | Description |
-|---|---|
-| **[Glyphcast ↗](https://glyphcast.audoralabs.com)** | Convert videos into ASCII sequences, real-time, in-browser |
-| **[Stash ↗](https://stash.audoralabs.com)** | Your personal snippet vault. Save, organize, and reuse code instantly |
-| **[OptX ↗](https://optx.audoralabs.com)** | Compress & convert images instantly. No uploads, no servers |
-| **[SNPX ↗](https://snpx.audoralabs.com)** | Turn any tweet into a stunning shareable image |
+| Product                                             | Description                                                           |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| **[Glyphcast ↗](https://glyphcast.audoralabs.com)** | Convert videos into ASCII sequences, real-time, in-browser            |
+| **[Stash ↗](https://stash.audoralabs.com)**         | Your personal snippet vault. Save, organize, and reuse code instantly |
+| **[SNPX ↗](https://snpx.audoralabs.com)**           | Turn any tweet into a stunning shareable image                        |
 
 ---
 
