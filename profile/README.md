@@ -1,8 +1,25 @@
-# audoralabs
+<div align="center">
 
-**AudoraLabs** is an independent product studio focused on building and operating reliable software.
+# AudoraLabs
 
-We build our own SaaS products and selectively partner with founders on systems that need to work in production - not just demos.
+Independent product studio. We build software that works in production, not just demos.
+
+[![Website](https://img.shields.io/badge/audoralabs.com-111111?style=flat&logo=globe&logoColor=white)](https://audoralabs.com)
+[![X](https://img.shields.io/badge/audoralabs-111111?style=flat&logo=x&logoColor=white)](https://x.com/audoralabs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/audora-labs)
+
+</div>
+
+---
+
+## Products
+
+| Product | Description |
+|---|---|
+| **[Glyphcast ↗](https://glyphcast.audoralabs.com)** | Convert videos into ASCII sequences, real-time, in-browser |
+| **[Stash ↗](https://stash.audoralabs.com)** | Your personal snippet vault. Save, organize, and reuse code instantly |
+| **[OptX ↗](https://optx.audoralabs.com)** | Compress & convert images instantly. No uploads, no servers |
+| **[SNPX ↗](https://snpx.audoralabs.com)** | Turn any tweet into a stunning shareable image |
 
 ---
 
@@ -13,40 +30,14 @@ We build our own SaaS products and selectively partner with founders on systems 
 - Production-grade infrastructure and cloud systems
 - End-to-end product engineering, from idea to shipped software
 
-Our work emphasizes **ownership, simplicity, and long-term maintainability**.
+We build our own SaaS products and selectively partner with founders on systems that need to work in production.
 
 ---
 
-## Products
+<div align="center">
 
-This organization hosts:
-
-- Public and private SaaS products built at AudoraLabs
-- Supporting libraries and internal tooling
-- Open-source projects shared when they provide real value
-
-Not all work is public.
-
----
-
-## Philosophy
-
-- Ship working software
-- Design for scale early, not later
-- Prefer clarity over complexity
-- Build things that hold up in real-world usage
-
-AudoraLabs is product-led, engineering-driven, and intentionally small.
-
----
-
-## Links
-
-- Website: https://audoralabs.com
-- GitHub: https://github.com/audoralabs
-- LinkedIn: https://www.linkedin.com/company/audora-labs
-- X: https://x.com/audoralabs
-
----
+**Product-led. Engineering-driven. Intentionally small.**
 
 © AudoraLabs
+
+</div>
